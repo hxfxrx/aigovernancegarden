@@ -3,5 +3,6 @@
 ---
 
 
-Ai is many things, but one is AI is the sociological effort to mimic ourselves into a machine
+
+AI is many things, but one is AI is the sociological effort to mimic ourselves into a machine
 obsidian://open?vault=Obsidian&file=Ai%20is%20an%20experience

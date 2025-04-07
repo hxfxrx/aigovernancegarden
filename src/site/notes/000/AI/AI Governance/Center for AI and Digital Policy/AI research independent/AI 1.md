@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000/ai/ai-governance/center-for-ai-and-digital-policy/ai-research-independent/ai-1/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/000/ai/ai-governance/center-for-ai-and-digital-policy/ai-research-independent/ai-1/","tags":["gardenEntry"],"created":"2025-04-07T17:30:09.672+02:00"}
 ---
 
 
